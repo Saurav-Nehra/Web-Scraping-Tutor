@@ -1,0 +1,3 @@
+This folder stores raw JSON responses downloaded from Apache Jira.
+Do NOT commit large raw dataset files to the repository. The scraper
+will write files here when run locally.
